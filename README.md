@@ -29,9 +29,6 @@ Generate output in the required format, including EmpID1, EmpID2, and the durati
 Clean Code Conventions:
 Follow clean code principles, including meaningful variable names, modular functions, and comments for clarity.
 
-Bonus Features:
-Optionally implement data persistence for the input data.
-Optionally implement CRUD (Create, Read, Update, Delete) operations for employee information.
 
 
 Usage
