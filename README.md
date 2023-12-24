@@ -1,6 +1,7 @@
 Work Together App
 
 Task Summary
+
 The goal of this application is to identify pairs of employees who have worked together on common projects for the longest period of time, along with the duration of each project. The input data is provided in a CSV file, and the program must support various date formats, handle NULL values for the "DateTo" field, and calculate the number of days employees worked together.
 
 Algorithm Overview
